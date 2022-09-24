@@ -1,11 +1,11 @@
 {
-    "name": "Baby XRP",
+    "name": "XRPCash",
     "type": "BEP20",
-    "symbol": "BXRP",
+    "symbol": "XRPC",
     "decimals": 9,
-    "website": "https://baby-xrp.finance",
+    "website": "https://xrpcash.app",
     "description": "BXRP is a rewarding token that is rewarding its holders with XRP, as it is having its own DEX and having a lot of utilities coming further to heavy marketing.",
-    "explorer": "https://bscscan.com/token/0xAAf90F41f5c60512d74052176EFc37ae30b42F19",
+    "explorer": "https://bscscan.com/token/0x83E0663429537C4810d7D35929a668A9FEFEDec9",
     "status": "active",
-    "id": "0xAAf90F41f5c60512d74052176EFc37ae30b42F19"
+    "id": "0x83E0663429537C4810d7D35929a668A9FEFEDec9"
 }
