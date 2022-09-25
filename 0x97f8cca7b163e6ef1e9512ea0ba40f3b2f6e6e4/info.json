@@ -2,7 +2,7 @@
     "name": "XRPCash",
     "type": "BEP20",
     "symbol": "XRPC",
-    "decimals": 9,
+    "decimals": 18,
     "website": "https://xrpcash.app",
     "description": "BXRP is a rewarding token that is rewarding its holders with XRP, as it is having its own DEX and having a lot of utilities coming further to heavy marketing.",
     "explorer": "https://bscscan.com/token/0x83E0663429537C4810d7D35929a668A9FEFEDec9",
